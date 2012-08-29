@@ -1,0 +1,184 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass amsart
+\use_default_options false
+\begin_modules
+theorems-ams
+eqs-within-sections
+figs-within-sections
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language spanish
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 2
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Uso de GeoGebra en la Resolución de Problemas
+\end_layout
+
+\begin_layout Author
+Antonio Sángari
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+Cristina Egüez 
+\end_layout
+
+\begin_layout Section
+Objetivos
+\end_layout
+
+\begin_layout Enumerate
+Difundir y promover el uso de un sofware libre de fácil implementación y
+ de alta calidad para la enseñanza.
+\end_layout
+
+\begin_layout Enumerate
+Iniciar en el aprendizaje de GeoGebra.
+\end_layout
+
+\begin_layout Enumerate
+Conocer y apreciar las posibilidades educativas de GeoGebra a través de
+ la resolución de problemas matemáticos interesantes.
+\end_layout
+
+\begin_layout Enumerate
+Interactuar con GeoGebra mediante la elaboración de herramientas propias
+ de construcción.
+\end_layout
+
+\begin_layout Section
+Contenidos
+\end_layout
+
+\begin_layout Subsection
+Contenidos propios del Geogebra
+\end_layout
+
+\begin_layout Standard
+Qué es GeoGebra.
+ Razones para usarlo.
+ Disposición de la ventana principal.
+ Objetos: distintos tipos, propiedades y operaciones.
+ Herramientas predefinidas: Específicas y generales.
+ Herramientas personales: creación, almacenaje y acceso a herramientas creadas.
+ Comandos: distintos tipos, propiedades y operaciones.
+\end_layout
+
+\begin_layout Subsection
+Contenidos de GEOmetría y de alGEBRA
+\end_layout
+
+\begin_layout Standard
+Recta de Euler.
+ Circunferencia de los 9 puntos.
+ Rectas de Simson.
+ Propiedades interesantes de las circunferencias.
+ Lugares geométricos.
+ Optimización.
+\end_layout
+
+\begin_layout Section
+Metodología
+\end_layout
+
+\begin_layout Standard
+El curso se desarrollará en un laboratorio de informática que permita un
+ cómodo acceso de los participantes a la computadora.
+ A partir de las instrucciones básicas se motivará el interés y la adaptación
+ a GeoGebra, mediante el planteo de distintos problemas apoyando la búsqueda
+ de soluciones que requieran de su aplicación.
+ Los distintos problemas buscaran acercarse a los intereses particulares
+ de los participantes.
+ 
+\end_layout
+
+\begin_layout Standard
+Para cualquier duda, consulta o discusión se dispondrá de un foro y de una
+ sala de chat para lograr la comunicación entre todos.
+\end_layout
+
+\end_body
+\end_document
